@@ -1,0 +1,13 @@
+START RequestId: 0babd67a-2015-4d12-92e7-f6b1d78e35b3 Version: $LATEST
+2
+9
+1
+4
+1
+7
+7
+7
+10
+6
+END RequestId: 0babd67a-2015-4d12-92e7-f6b1d78e35b3
+REPORT RequestId: 0babd67a-2015-4d12-92e7-f6b1d78e35b3	Duration: 1.49 ms	Billed Duration: 100 ms	Memory Size: 128 MB	Max Memory Used: 48 MB	Init Duration: 122.14 ms	
